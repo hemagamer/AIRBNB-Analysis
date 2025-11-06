@@ -25,7 +25,7 @@ Dataset link: https://kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-
 4. Connect the workbook to the dataset when prompted
 
 ## 📸 Dashboard Preview
-![Airbnb Dashboard](https://github.com/hemagamer/AIRBNB-Analysis/blob/main/screenshots/airbnb_dashboard.png)
+![Airbnb Dashboard](screenshots/airbnb_dashboard.png)
 
 *(Image shows bedroom distribution, average price per bedroom, price by zipcode, and revenue trends over 2016)*
 
@@ -33,3 +33,4 @@ Dataset link: https://kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-
 - Add filters for price ranges & review scores
 - Publish interactive version to Tableau Public
 - Add geospatial heat map for demand intensity
+
